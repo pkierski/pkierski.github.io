@@ -1,3 +1,3 @@
 # pkierski.github.io
 
-Simple redirection to [home page](http://pkierski.net).
+Simple redirection to [home page](https://pkierski.net).
